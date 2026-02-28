@@ -1,5 +1,5 @@
 # 🌍 EcoSense: The Waze for Air Conditioning
-> **KitaHack 2026 Submission** | **Tagline:** Empowering a Human Sensor Network to eliminate campus energy waste.
+> **Tagline:** Empowering a Human Sensor Network to eliminate campus energy waste.
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
