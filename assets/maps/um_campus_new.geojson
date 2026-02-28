@@ -1,0 +1,605 @@
+﻿{
+    "features":  [
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "J33 - Bangunan Makmal Kimia"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65401620606060606060606061,
+                                                              3.1261803878787878787878787879
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "yes",
+                                            "amenity":  "library",
+                                            "name":  "Perpustakaan Utama"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65398448787878787878787879,
+                                                              3.1203809090909090909090909091
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "B37 - Blok Pensyarah Pusat Asasi Sains"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65987988,
+                                                              3.1234194
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "yes",
+                                            "amenity":  null,
+                                            "name":  "J47 - Pump House (Bioinformatic)"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65335866,
+                                                              3.12383888
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "Makmal-Makmal Kejuruteraan Awam"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65525922222222222222222222,
+                                                              3.1185559111111111111111111111
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "farm_auxiliary",
+                                            "amenity":  null,
+                                            "name":  "Ladang Mini Institut Sains Biologi"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.66084356,
+                                                              3.12827574
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "B30"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.66039764285714285714285714,
+                                                              3.1226500571428571428571428571
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "J21 - New Geology"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65181593333333333333333333,
+                                                              3.1222494666666666666666666667
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "Jabatan Kejuruteraan Kimia"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65466702083333333333333333,
+                                                              3.11722395
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "college",
+                                            "amenity":  "toilets",
+                                            "name":  "B42"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65989078,
+                                                              3.12273588
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "dormitory",
+                                            "amenity":  null,
+                                            "name":  "Blok C"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65937655294117647058823529,
+                                                              3.1175103705882352941176470588
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  null,
+                                            "amenity":  "college",
+                                            "name":  "Jabatan Pengajian Asia Tenggara"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6520823,
+                                                              3.1210259
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "dormitory",
+                                            "amenity":  null,
+                                            "name":  "Blok D (Dahlia)"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6584701125,
+                                                              3.12686395
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "I10 - Blok B"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65287747777777777777777778,
+                                                              3.1201295666666666666666666667
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "yes",
+                                            "amenity":  null,
+                                            "name":  "Bilik Cermin"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.64544856666666666666666667,
+                                                              3.12074615
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "I04B"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65223885,
+                                                              3.12125455
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "yes",
+                                            "amenity":  null,
+                                            "name":  "Dobi Layan Diri Kolej Kediaman Dayasari"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6579452,
+                                                              3.12701696
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "Dapur"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.656908425,
+                                                              3.1180337
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  null,
+                                            "amenity":  null,
+                                            "name":  "Gelanggang Bola Jaring"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6508581,
+                                                              3.12325322
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "yes",
+                                            "amenity":  null,
+                                            "name":  "Pencawang Elektrik Rempuh Halangan Palapis, Universiti Malaya 11/0.415kV"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65458412,
+                                                              3.13305636
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "tree_house",
+                                            "amenity":  null,
+                                            "name":  "Rumah Pokok Samali"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6555287,
+                                                              3.11963233
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  null,
+                                            "amenity":  "atm",
+                                            "name":  "Bank Islam"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6551847,
+                                                              3.121022
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "Blok Pentadbiran"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65559307058823529411764706,
+                                                              3.1188294058823529411764705882
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  null,
+                                            "amenity":  "community_centre",
+                                            "name":  "Kompleks Perdanasiswa"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6557278,
+                                                              3.120421
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  null,
+                                            "amenity":  null,
+                                            "name":  "Gelanggang Futsal 3"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.66120234,
+                                                              3.11911106
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  null,
+                                            "amenity":  null,
+                                            "name":  "Gelanggang Floorball 1"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.66157072,
+                                                              3.11847088
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "Surau"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.64913328,
+                                                              3.1248041
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  null,
+                                            "amenity":  "university",
+                                            "name":  "Fakulti Alam Bina"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65518715,
+                                                              3.1164142961538461538461538462
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "dormitory",
+                                            "amenity":  null,
+                                            "name":  "Blok D"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6567118,
+                                                              3.1176405333333333333333333333
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "Dataran Siswa"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65237063157894736842105263,
+                                                              3.1209826578947368421052631579
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "dormitory",
+                                            "amenity":  null,
+                                            "name":  "Blok E"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.64591885714285714285714286,
+                                                              3.1216785714285714285714285714
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "yes",
+                                            "amenity":  null,
+                                            "name":  "Fire Tank"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65044048,
+                                                              3.13184286
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "B35"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65988144,
+                                                              3.12294894
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "J50 - Nurseries"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65590788,
+                                                              3.12317226
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  null,
+                                            "amenity":  "place_of_worship",
+                                            "name":  "Surau Fakulti Sains"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6536369,
+                                                              3.1220641
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "dormitory",
+                                            "amenity":  null,
+                                            "name":  "Blok B"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6505927,
+                                                              3.12348962
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "Pencawang Elektrik Fakulti Sains Komputer \u0026 Teknologi Maklumat Baru"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.6503714,
+                                                              3.12864602
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "F"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65605512222222222222222222,
+                                                              3.1203517388888888888888888889
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "CAD Computer Lab"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65596635714285714285714286,
+                                                              3.1182399857142857142857142857
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     },
+                     {
+                         "properties":  {
+                                            "building":  "university",
+                                            "amenity":  null,
+                                            "name":  "Menara Kejuruteraan (Sayap Makmal)"
+                                        },
+                         "type":  "Feature",
+                         "geometry":  {
+                                          "coordinates":  [
+                                                              101.65512401818181818181818182,
+                                                              3.1178789909090909090909090909
+                                                          ],
+                                          "type":  "Point"
+                                      }
+                     }
+                 ],
+    "type":  "FeatureCollection"
+}

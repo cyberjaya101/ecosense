@@ -1,0 +1,53 @@
+# Flutter environment
+.env
+.env.*
+!.env.example
+
+# Firebase Admin SDK
+backend/serviceAccountKey.json
+
+# Dart/Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+ios/.generated/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/derived_data/
+ios/pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/local.properties
+android/captures/
+android/.gradle/
+android/app/google-services.json
+!android/app/src/main/res/drawable-*/
+android/app/src/main/res/raw/
+android/app/src/main/res/values/google_maps_api_key.xml
+**/build/
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+Captures/
+.externalNativeBuild/
+*/.cxx/
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+
+# VS Code
+.vscode/
+.history
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,72 @@
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        /* MAPBOX REPOSITORY (Commented out for future implementation)
+        maven {
+            url 'https://api.mapbox.com/downloads/v2/releases/maven'
+            authentication {
+                basic(BasicAuthentication)
+            }
+            credentials {
+                username = 'mapbox'
+                password = project.findProperty('MAPBOX_DOWNLOADS_TOKEN') ?: ""
+            }
+        }
+        */
+    }
+}
+
+rootProject.buildDir = '../build'
+
+// Common variables for subprojects (plugins)
+rootProject.ext {
+    compileSdkVersion = 36
+    minSdkVersion = 21
+    targetSdkVersion = 36
+    ndkVersion = "28.2.13676358"
+}
+
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+
+subprojects {
+    afterEvaluate { project ->
+        if (project.extensions.findByName("android") != null) {
+            project.android {
+                if (namespace == null || namespace.isEmpty()) {
+                    namespace = "eco.sense.${project.name.replaceAll('-', '_')}"
+                }
+                compileSdk = rootProject.ext.compileSdkVersion
+                defaultConfig {
+                    if (minSdk == null || minSdk < rootProject.ext.minSdkVersion) {
+                        minSdk = rootProject.ext.minSdkVersion
+                    }
+                    targetSdk = rootProject.ext.targetSdkVersion
+                }
+
+                compileOptions {
+                    sourceCompatibility JavaVersion.VERSION_21
+                    targetCompatibility JavaVersion.VERSION_21
+                }
+            }
+        }
+        
+        tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
+            kotlinOptions {
+                jvmTarget = "21"
+            }
+        }
+        /*
+        // Ensure Mapbox token is passed to all subprojects
+        if (rootProject.hasProperty('MAPBOX_DOWNLOADS_TOKEN')) {
+            project.ext.set('MAPBOX_DOWNLOADS_TOKEN', rootProject.property('MAPBOX_DOWNLOADS_TOKEN'))
+        }
+        */
+    }
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
